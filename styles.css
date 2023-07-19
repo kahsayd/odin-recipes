@@ -1,0 +1,29 @@
+
+h2 {
+    color: aquamarine;
+}
+
+.sandwich {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe,
+.salad {
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    width: 500px;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+.list .one{
+    font-weight: 800;
+    color: salmon
+}
